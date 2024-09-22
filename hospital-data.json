@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Lisie Hospital",
+      "patientCount": 50,
+      "location": "Kochi"
+    },
+    {
+      "id": 2,
+      "name": "KIMS Hospital",
+      "patientCount": 100,
+      "location": "Trivandrum"
+    },
+    {
+      "id": 3,
+      "name": "Apollo Hospital",
+      "patientCount": 200,
+      "location": "Chennai"
+    }
+  ]
